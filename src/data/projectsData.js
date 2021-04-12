@@ -27,7 +27,7 @@ export const projectsData = [
     languages: ["C++"],
     infos:
       "L'application LinkedIn est un réseau social servant de rapprochement et de moyen de contact entre des entreprises, des demandeurs d'emploi et d'anciens collègues travail. Vous avez à créer un programme qui simule cette plateforme.",
-    img: "./img/Projet3.jpeg",
+    img: "./img/projet3.JPEG",
     link: "https://github.com/Rayan26/Projet_DEVPRO#objectif",
   },
   {
