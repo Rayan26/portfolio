@@ -6,7 +6,7 @@ export const projectsData = [
     languages: ["Angular", "JavaScript", "PHP", "SQL"],
     infos:
       "Développement d'un forum permettant aux étudiants et aux enseignants d'échanger sur des sujets relatifs aux cours proposés dans le département informatique. ",
-    img: "./img/projet1.jpg",
+    img: "./img/projet.jpg",
     link: "https://github.com/Rayan26/ForumAngular",
 
   },
@@ -37,7 +37,7 @@ export const projectsData = [
     languages: ["Laravel", "Php", "Boostrap", "HTML", "JavaScript"],
     infos:
       "Un reseau social encore en développement ...",
-    img: "./img/Projet4.jpeg",
+    img: "./img/projet4.jpeg",
     link: "https://github.com/Rayan26/MyNetwork",
   },
 ];
